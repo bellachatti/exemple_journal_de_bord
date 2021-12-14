@@ -10,8 +10,8 @@ _Une diffraction_
 Trouver 5 sites qui diffusent des nouvelles sur l'industrie.
 
 ### Lien 1 
-**Trouver un emploi ici**
-[Studio Mels](https://www.mels-studios.com/fr/)
+**Trouver un emploi au**
+[Studios Mels](https://www.mels-studios.com/fr/)
 
 ### Lien 2 
 
