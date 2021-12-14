@@ -2,7 +2,7 @@
 ## Insérer une image
 Insérer une image ici: 
 
-![image 1] 
+![image 1 ](image/bebe.jpeg)
 Décrire l'image. La description doit comprendre un mot en gras et un autre en italique. 
 
 ## Liens vers des nouvelles de l'industrie
