@@ -2,7 +2,8 @@
 ## Insérer une image
 Insérer une image ici: 
 ![doppler](Images/Lightshadows.jpg)
-
+_Une diffraction
+**Lumineuse**
 Décrire l'image. La description doit comprendre un mot en gras et un autre en italique. 
 
 ## Liens vers des nouvelles de l'industrie
