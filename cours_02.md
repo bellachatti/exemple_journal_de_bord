@@ -16,6 +16,4 @@ Rechercher des informations sur les emplois suivants. Écrire 4 à 5 lignes. Par
 
 ### Emploi 5 - Gestionnaire de projet
 
-* 1
-* 2
-* 3
+
