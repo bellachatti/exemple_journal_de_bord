@@ -6,7 +6,7 @@ Rechercher des informations sur les emplois suivants. Écrire 4 à 5 lignes. Par
 Personne qui analyse, conçoit et évalue, en tenant compte des critères ergonomiques, un système d'accès à tous les éléments contenus dans un produit multimédia, un système informatique, un logiciel, une application ou un site Internet en vue de créer une interface graphique conviviale et cohérente.
 
 ### Emploi 2 - Directeur artistique
-
+Personne qui planifie et dirige la partie artistique des productions dans les domaines du cinéma, du théâtre, de la musique, de la radio, de la télévision, du multimédia et de la publicité en vue d'assurer le caractère artistique et réaliste de la période ou des lieux à représenter.
 
 ### Emploi 3 - Développement Front-End
 
