@@ -4,7 +4,7 @@ Insérer une image ici:
 
 ![image 1 ](image/bebe.jpeg)
 Décrire l'image. La description doit comprendre un mot en gras et un autre en italique. 
-*parfaite * **belle**
+*parfaite* **belle**
 ## Liens vers des nouvelles de l'industrie
 Trouver 5 sites qui diffusent des nouvelles sur l'industrie.
 
