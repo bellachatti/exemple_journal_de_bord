@@ -15,5 +15,5 @@ Personne qui développe le code qui compose le visuel des pages Web. Ce que l'on
 Le professionnel QA (assurance qualité) élabore des plans de tests, de préférence automatisés, en mode agile et en intégration continue, pour assurer la qualité et le bon fonctionnement (détection des bogues et d'anomalies) de logiciels, de sites de commerce électronique, etc.
 
 ### Emploi 5 - Gestionnaire de projet
-
+Personne qui planifie et coordonne le travail des équipes multidisciplinaires affectées au développement de projets multimédias (sites Internet, applications, jeux électroniques, etc.) en vue d'offrir des produits ou des services de qualité tout en respectant les délais et les ressources financières prévus pour leur réalisation.
 
