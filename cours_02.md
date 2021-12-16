@@ -3,8 +3,8 @@
 Rechercher des informations sur les emplois suivants. Écrire 4 à 5 lignes. Parler des tâches reliées à l'emploi. Expliquer où ces personnes travaillent. Expliquer avec qui les personnes travaillent. 
 
 ### Emploi 1 - Designer UX
-Description de l’emploi 
-
+Description de l’emploi
+Les concepteurs UX (expérience utilisateur) mesurent et optimisent les applications (généralement basées sur le Web) pour améliorer la facilité d'utilisation (utilisabilité) et créent la meilleure expérience utilisateur en explorant de nombreuses approches différentes pour résoudre les problèmes des utilisateurs finaux. Une façon pour un concepteur UX de le faire est d'effectuer des tests utilisateur en personne pour observer le comportement. Ils affinent et peaufinent ensuite les applications, les logiciels et les sites Web pour créer des produits que les gens aiment et trouvent faciles à utiliser.
 
 ### Emploi 2 - Directeur artistique
 Description d l'emploi 
