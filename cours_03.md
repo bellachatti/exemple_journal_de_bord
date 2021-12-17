@@ -16,3 +16,5 @@ Insérer un lien de partage de votre Curation.
 [baches publicitaire](https://www.baches-publicitaires.com/)
 
  [Awwwrds](https://www.awwwards.com)
+ 
+[The 5 Types of Animation](https://www.youtube.com/)
