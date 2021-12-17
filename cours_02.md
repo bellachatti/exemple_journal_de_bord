@@ -17,5 +17,5 @@ Le professionnel QA (assurance qualité) élabore des plans de tests, de préfé
 ### Emploi 5 - Gestionnaire de projet
 Personne qui planifie et coordonne le travail des équipes multidisciplinaires affectées au développement de projets multimédias (sites Internet, applications, jeux électroniques, etc.) en vue d'offrir des produits ou des services de qualité tout en respectant les délais et les ressources financières prévus pour leur réalisation.
 
-### Emploi 6 - Devops (développement et opération)
+### Emploi 6 - DevOps (développement et opération)
 Hébergement, déploiement, sécurisation de sites. Travail fait à la fin du processus, juste avant le lancement d'un site.
