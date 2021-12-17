@@ -13,7 +13,6 @@ Personnellement je préfère l'image en mouvement .je trouve le vectoriel .
 
 ## Lien vers la curation
 Insérer un lien de partage de votre Curation. 
+[baches publicitaire](https://www.baches-publicitaires.com/)
 
-(baches publicitaire)[https://www.baches-publicitaires.com/]
-
-[https://www.awwwards.com/]
+(https://www.awwwards.com)
