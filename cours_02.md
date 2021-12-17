@@ -8,7 +8,8 @@ Les concepteurs UX (expérience utilisateur) mesurent et optimisent les applicat
 
 ### Emploi 2 - Directeur artistique
 Description d l'emploi 
-Le directeur artistique ou la directrice artistique est avant tout un créatif qui met en forme l'aspect visuel d'une publicité, d'un magazine, d'un livre, ou d'une émission de télévision. Il s'inscrit dans la stratégie de communication du service commercial et à partir du choix des supports par le service média.### Emploi 3 - Développement Front-End
+Le directeur artistique ou la directrice artistique est avant tout un créatif qui met en forme l'aspect visuel d'une publicité, d'un magazine, d'un livre, ou d'une émission de télévision. Il s'inscrit dans la stratégie de communication du service commercial et à partir du choix des supports par le service média
+### Emploi 3 - Développement Front-End
 
 
 ### Emploi 4 - Spécialiste QA
