@@ -6,6 +6,6 @@ Réfléchir aux différents secteurs économiques dans lesquels vous pouvez oeuv
 Quels sont les styles qui vous correspondent? Préférez-vous l'image fixe ou l'image en mouvement? Le matriciel ou le vectoriel?
 
 ## Lien vers la curation
-[Von Wong](https://www.vonwong.com/)   
+[Benjamin Von Wong](https://www.vonwong.com/)   
 [Francisco Negroni - Volcan](https://www.francisconegroni.com/index/G0000VAA3Kkm57jo/I0000AhKpiWZvYk4)   
 [Flying Lotus - couverture Flamagra](https://img.discogs.com/-8-h7ha75YjVN1M97cwMT5DqeZQ=/fit-in/600x623/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13674046-1558770700-5545.jpeg.jpg)
