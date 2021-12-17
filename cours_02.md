@@ -10,8 +10,8 @@ Les concepteurs UX (expérience utilisateur) mesurent et optimisent les applicat
 Description d l'emploi 
 Le directeur artistique ou la directrice artistique est avant tout un créatif qui met en forme l'aspect visuel d'une publicité, d'un magazine, d'un livre, ou d'une émission de télévision. Il s'inscrit dans la stratégie de communication du service commercial et à partir du choix des supports par le service média
 ### Emploi 3 - Développement Front-End
-
-
+ 
+Description de l’emploi Le développement web frontal correspond aux productions HTML, CSS et JavaScript d’une page internet ou d’une application qu’un utilisateur peut voir et avec lesquelles il peut interagir directement.
 ### Emploi 4 - Spécialiste QA
 Description de l'emploi
 Dans le cadre du développement de produits et de services, l'assurance qualité (ou QA pour Quality Assurance) désigne tout processus systématique visant à vérifier qu'un produit ou un service en cours de développement est conforme à des exigences précises.
