@@ -2,7 +2,7 @@
 ## Est-ce qu'un secteur économique ou un type de produit m'attire en particulier? 
 Réfléchir aux différents secteurs économiques dans lesquels vous pouvez oeuvrer en tant que designer graphique ou animateur. Qu'est-ce qui vous intéresse? Est-ce qu'il y a des produits en particulier sur lesquels vous aimeriez travailler. Des sujets ou des valeurs que vous aimeriez voir se manifester dans votre travail? 
 
-Je préfère le Secteur d’animation, je m’intéresse beaucoup au sujets de Bandes-annonces Vidéos promotionnelles  et Tutoriels vidéo  j’aimerais travaillé dans ce domaine.je préférée le dessin animé .
+Je préfère le Secteur d’animation, je m’intéresse beaucoup au sujets de Bandes-annonces Vidéos promotionnelles  et Tutoriels vidéo  j’aimerais travaillé dans ce domaine.je préférée le dessin animé dans mon expérience se situe dans le domaine de PHOTOGRAPHIE et la montage mais je préfère m’améliore au domaine de animation .
 
 ## Les styles qui m'intéressent
 
