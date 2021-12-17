@@ -9,7 +9,7 @@ Quels sont les styles qui vous correspondent? Préférez-vous l'image fixe ou l'
 [Benjamin Von Wong](https://www.vonwong.com/)   
 [Francisco Negroni - Volcan](https://www.francisconegroni.com/index/G0000VAA3Kkm57jo/I0000AhKpiWZvYk4)   
 [Flying Lotus - couverture Flamagra](https://img.discogs.com/-8-h7ha75YjVN1M97cwMT5DqeZQ=/fit-in/600x623/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13674046-1558770700-5545.jpeg.jpg)   
-[Peter Hoffer](http://www.peterhoffer.com/)   
+[Peter Hoffer](http://www.peterhoffer.com/works/)   
 [Robert Rauschenberg 1](https://www.rauschenbergfoundation.org/sites/default/files/2021-10/85.022_00.jpg)   
 [Robert Rauschenberg 2](https://www.rauschenbergfoundation.org/sites/default/files/2021-12/85.052_00.jpg)   
 
