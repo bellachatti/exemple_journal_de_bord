@@ -8,7 +8,12 @@ Je préfère le Secteur d’animation, je m’intéresse beaucoup au sujets de B
 
 Quels sont les styles qui vous correspondent? Préférez-vous l'image fixe ou l'image en mouvement? Le matriciel ou le vectoriel?
 
+Personnellement je préfère l'image en mouvement .je trouve le vectoriel .
+
+
 ## Lien vers la curation
 Insérer un lien de partage de votre Curation. 
 
 (baches publicitaire)[https://www.baches-publicitaires.com/]
+
+[https://www.awwwards.com/]
