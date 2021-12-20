@@ -2,4 +2,4 @@
 ## Carte heuristique
 
 Insérer une image de votre carte ici: 
-![carte](carte fantatstic.psd)
+![carte](carte-fantatsitc.jpg)
