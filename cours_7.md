@@ -1,7 +1,8 @@
 # Cours 7
 Recherche et présentation entreprise
 
-Projets: critères et étapes  
+Projets/critères et étapes 
+
 -Faisabilité: Est-il rationnel? Réalisable?  
 -Budget: Quels sommes devront être mobilisées? Besoin d'investisseurs externes?  
 -Ressources: Exécutants, administratifs, contacts, comptabilité... Besoins en formation, en matériel, en logiciels...  
