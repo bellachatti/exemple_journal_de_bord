@@ -2,11 +2,10 @@
 ## Insérer une image
 Insérer une image ici: 
 
-![collage](images/Montage1.jpg)
 
-
-Un petit *example* d'un montage photographique de mon expo qui s'appelle *Danse des étoiles* pendant mon **DEP en Photographie**  
-
+![image 1 ](image/bebe.jpeg)
+Décrire l'image. La description doit comprendre un mot en gras et un autre en italique. 
+*parfaite* **belle**
 
 ## Liens vers des nouvelles de l'industrie
 Trouver 5 sites qui diffusent des nouvelles sur l'industrie.
@@ -17,14 +16,12 @@ Trouver 5 sites qui diffusent des nouvelles sur l'industrie.
 
 
 ### Lien 2 
-[Anime JS Library](https://animejs.com/)
 
-
+[photo ](https://pixabay.com/fr/)
 ### Lien 3 
-[Flat UI Colors](https://flatuicolors.com/)
-
+[design ](https://dribbble.com/)
 ### Lien 4 
-[Free 3D models](https://free3d.com/)
-
+[DeviantArt](https://www.deviantart.com/)
 ### Lien 5 
-[Dribbble - Design DB](https://dribbble.com/)
+[DesignCrowd](https://www.designcrowd.com/)
+

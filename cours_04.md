@@ -3,6 +3,5 @@
 
 Insérer une image de votre carte ici: 
 
-
-![Carte](images/pyramid_quest.jpg)
+![carte](image/carte-fantatsitc.jpg)
 
