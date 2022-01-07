@@ -16,9 +16,11 @@ Premièrement, réfléchir aux aspects suivants:
 * Qui participe à la création de ce projet? 
 * Quel est le message derrière ce projet ou son objectif? 
 
-Écrire une analyse sur le projet. Amenez votre sujet grâce à une brève présentation de l’œuvre. Qui en sont les artistes?  Où est-elle présentée? « Every Star » est un magnifique court-métrage d’animation réalisé par la talentueuse Yawen Zheng. Un mystérieux petit garçon (aux faux airs de Petit Prince) récolte des étoiles pour les envoyer à des enfants qui vivent dans des villes grises et monotones. Il éclaire ainsi leur coeur
+Écrire une analyse sur le projet. Amenez votre sujet grâce à une brève présentation de l’œuvre. Qui en sont les artistes?  Où est-elle présentée? 
 
-![image](https://user-images.githubusercontent.com/96133359/148574206-941ca168-440f-4245-b3d9-19e680af0865.png)
+Un court-métrage très émouvant qui raconte l’histoire d’un adolescent, accro aux jeux vidéo, dont la vie va changer après avoir reçu un cadeau de sa mère. Regardez jusqu’à la fin.
+
+Ce film a reçu plus de 50 prix dans différents festivals.![image](https://user-images.githubusercontent.com/96133359/148574206-941ca168-440f-4245-b3d9-19e680af0865.png)
 
 
 Posez votre sujet en nous mentionnant quel aspect de l’œuvre vous allez traiter. Divisez ensuite ce sujet en deux ou trois sous-sujets. 
