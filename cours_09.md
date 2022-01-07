@@ -39,6 +39,9 @@ In everyone’s heart, there lives a little boy and his star.
 “Every Star” is about a story taken place between cities and nature. A mysterious boy from nature collects stars and sends them to every city child, who is unable to see the stars trough the foggy sky.
 
 ![image](https://user-images.githubusercontent.com/96133359/148574496-37de2742-2a98-44b1-bdda-bd00e3946161.png)
+
+
+
 | Les techniques utilisées	| <ul><li> Le motion design </li><li>La captation vidéo</li></ul> |
 
 
