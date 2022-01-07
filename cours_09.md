@@ -32,8 +32,7 @@ Exemples :
 |La prestation	|<ul><li> L’aspect sonore</li><li> Le visuel </li><li> L’interactivité </li></ul>2D Animation
 2014
 Length: 3min
-![image](https://user-images.githubusercontent.com/96133359/148574319-cf71762d-803d-4a3e-9554-d2ecbbb6236b.png)
-|
+
 Responsible for: Direction and Animation
 Composer: Min He
 
