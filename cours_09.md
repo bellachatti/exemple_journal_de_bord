@@ -16,12 +16,10 @@ Premièrement, réfléchir aux aspects suivants:
 * Qui participe à la création de ce projet? 
 * Quel est le message derrière ce projet ou son objectif? 
 
-Écrire une analyse sur le projet. Amenez votre sujet grâce à une brève présentation de l’œuvre. Qui en sont les artistes?  Où est-elle présentée? 
-
+Écrire une analyse sur le projet. Amenez votre sujet grâce à une brève présentation de l’œuvre. Qui en sont les artistes?  Où est-elle présentée?   
 Un court-métrage très émouvant qui raconte l’histoire d’un adolescent, accro aux jeux vidéo, dont la vie va changer après avoir reçu un cadeau de sa mère. Regardez jusqu’à la fin.
 
-Ce film a reçu plus de 50 prix dans différents festivals.![image](https://user-images.githubusercontent.com/96133359/148574206-941ca168-440f-4245-b3d9-19e680af0865.png)
-
+Ce film a reçu plus de 50 prix dans différents festivals.
 
 Posez votre sujet en nous mentionnant quel aspect de l’œuvre vous allez traiter. Divisez ensuite ce sujet en deux ou trois sous-sujets. 
 Exemples : 
@@ -39,7 +37,6 @@ Composer: Min He
 In everyone’s heart, there lives a little boy and his star.
 “Every Star” is about a story taken place between cities and nature. A mysterious boy from nature collects stars and sends them to every city child, who is unable to see the stars trough the foggy sky.
 
-![image](https://user-images.githubusercontent.com/96133359/148574496-37de2742-2a98-44b1-bdda-bd00e3946161.png)
 
 
 
