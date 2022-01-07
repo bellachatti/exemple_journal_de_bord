@@ -21,6 +21,18 @@ Un court-métrage très émouvant qui raconte l’histoire d’un adolescent, ac
 
 Ce film a reçu plus de 50 prix dans différents festivals.
 
+Official Selection- Northwest Animators Showcase
+Official Selection- Animex Awards 2015
+Official Selection- 10th Annual Children’s Film Festival Seattle 2015
+Official Selection- Sarasota Film Festival, FL 2105
+Official Selection- International Animation Festival CHILEMONOS 2015
+Official Selection- (PISA) Puchon International Student Animation Festival, South Korea 2014
+Official Selection- REDCAT International Children's Film Festival 2015
+Official Selection- Festimation Festival, U.S.A 2014
+Official Selection- The World Animation Celebration, Los Angeles 2014
+Official Selection- Black movie, Geneva International Film Festival, Switzerland 2015
+Screening - Animation Sensation Film Fest 2014, USA
+
 Posez votre sujet en nous mentionnant quel aspect de l’œuvre vous allez traiter. Divisez ensuite ce sujet en deux ou trois sous-sujets. 
 Exemples : 
 |Sujet posé |	Sujet divisé |
