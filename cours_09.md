@@ -27,7 +27,8 @@ Exemples :
 | --------- | ------------ |
 |Le visuel de l'oeuvre	| <ul><li>Les règles de composition d'images</li><li>La qualité artistique</li></ul>  |
 |L’aspect sonore de l’œuvre |<ul><li>L’utilisation de la mélodie</li><li>Le lien entre le visuel et le son </li></ul> 	 |
-|La prestation	|<ul><li> L’aspect sonore</li><li> Le visuel </li><li> L’interactivité </li></ul>2D Animation
+|La prestation	|<ul><li> L’aspect sonore</li><li> Le visuel </li><li> L’interactivité </li></ul> 
+2D Animation
 2014
 Length: 3min
 
