@@ -5,8 +5,7 @@
 ### Le projet créatif
 [![watch](http://img.youtube.com/vi/VTgADEXQAGs/0.jpg)](https://youtu.be/VTgADEXQAGs)
     
-  [![watch](http://img.youtube.com/watch?v=TUx2S7BwNRA)]
-
+  [![watch](http://img.youtube.com/TUx2S7BwNRA/0.jpg)](https://youtu.be/TUx2S7BwNRA)
 ### L'analyse
 
 Premièrement, réfléchir aux aspects suivants: 
